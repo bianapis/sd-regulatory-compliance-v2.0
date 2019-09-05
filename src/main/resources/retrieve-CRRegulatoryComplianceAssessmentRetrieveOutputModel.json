@@ -1,0 +1,31 @@
+{
+  "regulatoryComplianceAssessmentInstanceRecord" : {
+    "productServiceReference" : "794869",
+    "regulationAccountability" : "regulationAccountability",
+    "regulatoryAssessmentWorkProducts" : "regulatoryAssessmentWorkProducts",
+    "regulationReference" : "767109",
+    "regulatoryAssessmentType" : "regulatoryAssessmentType",
+    "regulationPenalties" : "regulationPenalties",
+    "regulatoryAssessmentResult" : "regulatoryAssessmentResult",
+    "regulationGuideline" : "regulationGuideline",
+    "regulationDefinition" : "regulationDefinition",
+    "customerReference" : "728760",
+    "regulatoryAuthorityReference" : "733758",
+    "regulationComplianceandReportingRequirements" : "regulationComplianceandReportingRequirements",
+    "documentReference" : "737510",
+    "businessUnitReference" : "759549"
+  },
+  "regulatoryComplianceAssessmentRetrieveActionTaskRecord" : {},
+  "regulatoryComplianceAssessmentInstanceReportRecord" : {
+    "regulatoryComplianceAssessmentInstanceReport" : {},
+    "regulatoryComplianceAssessmentInstanceReportType" : "regulatoryComplianceAssessmentInstanceReportType",
+    "regulatoryComplianceAssessmentInstanceReportData" : "regulatoryComplianceAssessmentInstanceReportData"
+  },
+  "regulatoryComplianceAssessmentInstanceAnalysis" : {
+    "regulatoryComplianceAssessmentInstanceAnalysisReport" : {},
+    "regulatoryComplianceAssessmentInstanceAnalysisData" : "regulatoryComplianceAssessmentInstanceAnalysisData",
+    "regulatoryComplianceAssessmentInstanceAnalysisReportType" : "regulatoryComplianceAssessmentInstanceAnalysisReportType"
+  },
+  "regulatoryComplianceAssessmentRetrieveActionTaskReference" : "RCARATR768728",
+  "regulatoryComplianceAssessmentRetrieveActionResponse" : "regulatoryComplianceAssessmentRetrieveActionResponse"
+}

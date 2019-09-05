@@ -1,0 +1,15 @@
+{
+  "regulatoryComplianceAssessmentUpdateActionTaskRecord" : {},
+  "regulatoryComplianceAssessmentInstanceRecord" : {
+    "productServiceReference" : "703205",
+    "customerReference" : "770765",
+    "regulatoryAssessmentWorkProducts" : "regulatoryAssessmentWorkProducts",
+    "regulatoryAuthorityReference" : "724797",
+    "regulationReference" : "710443",
+    "documentReference" : "775400",
+    "regulatoryAssessmentType" : "regulatoryAssessmentType",
+    "businessUnitReference" : "703326"
+  },
+  "updateResponseRecord" : {},
+  "regulatoryComplianceAssessmentUpdateActionTaskReference" : "RCAUATR752918"
+}

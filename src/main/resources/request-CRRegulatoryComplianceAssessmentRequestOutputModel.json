@@ -1,0 +1,17 @@
+{
+  "regulatoryComplianceAssessmentInstanceRecord" : {
+    "productServiceReference" : "724912",
+    "customerReference" : "739456",
+    "regulatoryAssessmentWorkProducts" : "regulatoryAssessmentWorkProducts",
+    "regulatoryAuthorityReference" : "767928",
+    "regulationReference" : "737927",
+    "documentReference" : "783145",
+    "regulatoryAssessmentType" : "regulatoryAssessmentType",
+    "businessUnitReference" : "743233",
+    "regulatoryAssessmentResult" : "regulatoryAssessmentResult"
+  },
+  "regulatoryComplianceAssessmentRequestActionTaskReference" : "RCARATR727196",
+  "requestRecordReference" : "RRR752097",
+  "regulatoryComplianceAssessmentRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

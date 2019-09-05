@@ -1,0 +1,17 @@
+{
+  "regulatoryComplianceAssessmentInstanceRecord" : {
+    "regulationAccountability" : "regulationAccountability",
+    "regulationGuideline" : "regulationGuideline",
+    "regulationDefinition" : "regulationDefinition",
+    "regulatoryAssessmentWorkProducts" : "regulatoryAssessmentWorkProducts",
+    "regulationComplianceandReportingRequirements" : "regulationComplianceandReportingRequirements",
+    "documentReference" : "714800",
+    "regulatoryAssessmentType" : "regulatoryAssessmentType",
+    "regulationPenalties" : "regulationPenalties",
+    "regulatoryAssessmentResult" : "regulatoryAssessmentResult"
+  },
+  "regulatoryComplianceAssessmentEvaluateActionReference" : "RCAEAR783432",
+  "regulatoryComplianceAssessmentInstanceReference" : "RCAIR781768",
+  "regulatoryComplianceAssessmentEvaluateActionRecord" : {},
+  "regulatoryComplianceAssessmentInstanceStatus" : "regulatoryComplianceAssessmentInstanceStatus"
+}
